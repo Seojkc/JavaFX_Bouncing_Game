@@ -1,0 +1,14 @@
+
+#pane{
+-fx-background-image: url("black.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1200 800;
+
+
+}
+
+#score{
+    -fx-text-fill: white;
+    -fx-font-size: 30;
+    -fx-font-family: 'Comic Sans MS';
+}
